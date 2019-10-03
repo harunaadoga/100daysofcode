@@ -1,4 +1,4 @@
-#this program is to generate random quiz files for Nigerian students about states and their capitals
+#This program is to generate random quiz files for Nigerian students about states and their capitals
 import random
 #store the states and capitals in a dictionary
 capitals = {'Abia': 'Umuahia','Taraba':'Jalingo', 'Zamfara':'Gusau',
