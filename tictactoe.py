@@ -1,4 +1,3 @@
-import pprint
 #a tic tac toe game
 board = {'top-Left': '', 'top-Middle': '', 'top-Right': '',
         'mid-Left': ' ', 'mid-Middle': ' ', 'mid-Right': ' ',
